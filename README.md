@@ -2,6 +2,11 @@
 <h1 align="center">Hola, soy Camilo Contreras 👋, Automatizador de pruebas semi senior</h1>
 </div>
 <a href="https://imgur.com/Oy5pheq"><img src="https://i.imgur.com/Oy5pheq.png" title="source: imgur.com" /></a>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## Sobre mi
 
