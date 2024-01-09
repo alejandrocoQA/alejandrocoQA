@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Camilo Contreras 👋, Automatizador de pruebas semi senior</h1>
+<h1 align="center">Hello, I'm Camilo Contreras 👋, Semi Senior Test Automator</h1>
 </div>
 <a href="https://imgur.com/Oy5pheq"><img src="https://i.imgur.com/Oy5pheq.png" title="source: imgur.com" /></a>
 <!--- snake -->
@@ -10,8 +10,8 @@
 
 ## Sobre mi
 
-- 📲 Automatizador de Pruebas Semi senior
-- ☕ Programador Java
+- 📲 Semi senior Test Automator
+- ☕ Java Developer
 <br>
 
 ## 🌐 Socials:
