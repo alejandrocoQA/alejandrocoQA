@@ -8,7 +8,7 @@
        alt="snake" /></a>
 </div>
 
-## Sobre mi
+## About Me
 
 - 📲 Semi senior Test Automator
 - ☕ Java Developer
