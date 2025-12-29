@@ -4,7 +4,7 @@
 <a href="https://imgur.com/Oy5pheq"><img src="https://i.imgur.com/Oy5pheq.png" title="source: imgur.com" /></a>
 <!--- snake -->
 <div align="center">
-  <img  src="/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
