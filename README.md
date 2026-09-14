@@ -4,7 +4,7 @@
 <a href="https://imgur.com/Oy5pheq"><img src="https://i.imgur.com/Oy5pheq.png" title="source: imgur.com" /></a>
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/alejandrocoQA?v=1789407839302"
+    src="https://gitascii.com/api/alejandrocoQA?v=1789408617958"
     alt="GitAscii Widget"
     width="100%"
   />
