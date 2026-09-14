@@ -8,6 +8,7 @@
     alt="GitAscii Widget"
     width="100%"
   />
+</a>
 </a><!--- snake -->
 <div align="center">
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
