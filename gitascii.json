@@ -23089,22 +23089,18 @@
       "zIndex": 6
     },
     {
-      "instanceId": "widget_1789410122463",
-      "widgetId": "codeweb-showcase-cards",
-      "name": "Codeweb-showcase-cards Widget",
+      "instanceId": "widget_1789410824172",
+      "widgetId": "winxp-media-player",
+      "name": "Winxp-media-player Widget",
       "position": {
         "x": 0,
         "y": 1280
       },
       "size": {
-        "width": 800,
-        "height": 220
+        "width": 780,
+        "height": 300
       },
-      "config": {
-        "leftGifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhlcWF2aDhsYzcxNW9pNW8yYXduczA4d3Ywd2Jzb2k2ZGdzeGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvotGQwhzi6O0gQtV/giphy.gif",
-        "card2GifUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR3aWd1OTNpdmhyNjl0emZwMDB4eThjZHhlY3E3NHQxdGkzMG5jOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif",
-        "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI2cWwzNGhnYTQ2cGppbDd1cDQybm90cWh0bmduOWd5czFubmlxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUbMgQBShZOcMPohgn/giphy.gif"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 7
