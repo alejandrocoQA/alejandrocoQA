@@ -1,3 +1,10 @@
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/alejandrocoQA?v=1789407542820"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 <div align="center">
 <h1 align="center">Hello, I'm Camilo Contreras 👋, Senior Test Automator and Backend Developer</h1>
 </div>
@@ -8,12 +15,6 @@
        alt="snake" /></a>
 </div>
 
-# 💫 About Me:
-📲 Semi senior Test Automator<br>☕ Java Developer
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=alejandrocoQA&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=alejandrocoQA&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
