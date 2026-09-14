@@ -1,4 +1,5 @@
 {
+  "username": "alejandrocoQA",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11510,8 +11511,8 @@
         "y": 42
       },
       "size": {
-        "width": 456,
-        "height": 312
+        "width": 440,
+        "height": 310
       },
       "config": {
         "accentColor": "#ffa657"
@@ -23100,7 +23101,11 @@
         "width": 800,
         "height": 220
       },
-      "config": {},
+      "config": {
+        "leftGifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhlcWF2aDhsYzcxNW9pNW8yYXduczA4d3Ywd2Jzb2k2ZGdzeGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvotGQwhzi6O0gQtV/giphy.gif",
+        "card2GifUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR3aWd1OTNpdmhyNjl0emZwMDB4eThjZHhlY3E3NHQxdGkzMG5jOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif",
+        "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI2cWwzNGhnYTQ2cGppbDd1cDQybm90cWh0bmduOWd5czFubmlxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUbMgQBShZOcMPohgn/giphy.gif"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -23117,5 +23122,6 @@
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
-  "templateId": "ascii_native"
+  "templateId": "ascii_native",
+  "profileSlug": "default"
 }
